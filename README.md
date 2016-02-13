@@ -10,6 +10,7 @@ You can think about this as a plan for what you want to accomplish over the next
 2. Apply for ![Firefox Student Ambassadors](https://www.mozilla.org/en-US/contribute/studentambassadors/).
 3. Create a ![Firefox Club](https://wiki.mozilla.org/StudentAmbassadors/FirefoxClubs) in your colleges. If you already have one then activate it, contact previous Club Leads to transfer the ownership/leadership to the current students.
 4. Form a group of (4-5) friends who can support you the most for the campaign.
+5. Install telegram and join Mozilla Nepal group.
 
 ### Template for creating a new issue
 
@@ -59,3 +60,4 @@ Who is involved:
 - [ ] Formed a Firefox Club in your college and registered it in the wiki.
 - [ ] .....
 - [ ] .....
+```
