@@ -1,4 +1,4 @@
-# Student Leaders
+# Student Leaders for Privacy Campaign
 Hello Student Leaders!! Use this Repo to keep track of your projects and objectives for the Privacy Campaign in respective colleges. Create issues by copying and pasting the templates below and filling in your information. It is not necessary to use the same template, but it is there for you to give a start if you are confused on what to do. 
 
 You can think about this as a plan for what you want to accomplish over the next month (at least to begin).
