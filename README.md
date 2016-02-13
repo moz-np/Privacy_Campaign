@@ -4,7 +4,7 @@ Hello Student Leaders!! Use this Repo to keep track of your projects and objecti
 You can think about this as a plan for what you want to accomplish over the next month (at least to begin).
 
 ### First thing First 
-## It is wished that you complete the following tasks first.
+#### It is wished that you complete the following tasks first.
 
 1. Create a profile in ![mozillians.org](http://mozillians.org), after all you are a Mozillian.
 2. Apply for ![Firefox Student Ambassadors](https://www.mozilla.org/en-US/contribute/studentambassadors/).
